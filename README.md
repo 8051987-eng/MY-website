@@ -1,2 +1,2 @@
 # MY-website
-I made this
+I MADE A WEBSITE ABOUT MY SELF Hello My project is about my self it tlks about my interest and what I like if you want to try it out here is the link https://8051987-eng.github.io/My-Bank/ if you want to try it than just click the link and explore my website the features are it has buttons it talks about my self. credits go to GitHub copilot, google and Bing google and Bing helped me with the images and GitHub copilot helped me with the stuff I did not know about.
